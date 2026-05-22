@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "fargocheungyc-jpg/alfargocheung-jpg",
+    "data-repo": "fargocheungyc-jpg/fargocheungyc-jpg",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
